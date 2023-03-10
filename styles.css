@@ -1,0 +1,28 @@
+body {
+    background-color: #F9F3EE;
+}
+h1 {
+color: #FFA3FD;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+h2 {
+    color: #FFA3FD;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+color: #97C4B8;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+text-align: center;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
